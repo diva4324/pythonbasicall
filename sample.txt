@@ -1,0 +1,11 @@
+Hello from Python!
+This is the second line.
+The 'with' statement is great.
+Python is versatile.
+File handling is key.Python is versatile.
+File handling is key.Python is versatile.
+File handling is key.Python is versatile.
+File handling is key.Python is versatile.
+File handling is key.Python is versatile.
+File handling is key.Python is versatile.
+File handling is key.
